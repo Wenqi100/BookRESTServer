@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookRestServer", "BookRestServer.csproj", "{56D196B3-5FB4-4DF5-8F4E-885B833CB0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D196B3-5FB4-4DF5-8F4E-885B833CB0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D196B3-5FB4-4DF5-8F4E-885B833CB0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D196B3-5FB4-4DF5-8F4E-885B833CB0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D196B3-5FB4-4DF5-8F4E-885B833CB0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E6DAF7-746A-44BB-9BC4-BD403BE63419}
+	EndGlobalSection
+EndGlobal
